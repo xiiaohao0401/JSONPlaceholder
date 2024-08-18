@@ -3,6 +3,7 @@
 To able to run the application of this coding exercise, clone it to your STS and open the package 'com.example.jsonplaceholder' then right click run as 'Java Application'
 
 Example:
+
 ![image](https://github.com/user-attachments/assets/53f5d27d-e7a3-4808-9f4c-4ce73a68f621)
 
 Once you click run as 'Java Application"
